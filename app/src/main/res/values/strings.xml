@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">JKT48WIKI</string>
+    <string name="member_name">Nama Member</string>
+    <string name="description">Deskripsi</string>
+    <string name="about_name_and_email">Ari Fuzzaman \n zamanari01@gmail.com</string>
+    <string name="go_to_about_activity">Go to About Activity</string>
+    <string name="share_this">Share this</string>
+
+    <string-array name="data_name">
+        <item>Amanda Sukma</item>
+        <item>Angelina Christy</item>
+        <item>Aurelia</item>
+        <item>Callista Alifia</item>
+        <item>Cornelia Vanisa</item>
+        <item>Febriola Sinambela</item>
+        <item>Feni Fitriyanti</item>
+        <item>Fiony Alveria</item>
+        <item>Flora shafiq</item>
+        <item>Freya Jayawardana</item>
+        <item>Gabriela Abigail</item>
+        <item>Gita Sekar Andarini</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Halo! Nama saya Amanda Sukma. Saya suka bernyanyi dan menari. Hobi saya adalah mendengarkan musik dan menulis lagu. Senang bertemu dengan kalian semua!\n
+            \nProfil Lengkap:
+            \nNama: Amanda Sukma
+            \nTanggal Lahir  : 17 Desember 2004
+            \nGolongan Darah : o
+            \nHoroskop       : Sagitarius
+            \nTinggi Badan   : 160cm
+            \nNama Panggilan : Amanda
+        </item>
+        <item>Hai, saya Angelina Christy. Saya suka berpetualang dan mencoba hal-hal baru. Saya juga penggemar berat olahraga dan suka menonton film aksi.\n
+            \nProfil Lengkap:
+            \nNama              : Angelina Christy
+            \nTanggal Lahir     : 12 Januari 2005
+            \nGolongan Darah    : AB
+            \nHoroskop          : Capricorn
+            \nTinggi Badan      : 165 cm
+            \nNama Panggilan    : Christy
+        </item>
+        <item>Perkenalkan, nama saya Aurelia. Saya sangat menyukai seni, terutama melukis dan membuat kerajinan tangan. Saya juga suka membaca novel fantasi di waktu luang.\n
+            \nProfil Lengkap:
+            \nNama              : Aurelia
+            \nTanggal Lahir     : 5 April 2003
+            \nGolongan Darah    : B
+            \nHoroskop          : Aries
+            \nTinggi Badan      : 158 cm
+            \nNama Panggilan    : Lia
+        </item>
+        <item>Hai semuanya, saya Callista Alifia. Saya senang menari dan memasak. Saya sangat suka mencoba berbagai resep masakan dari seluruh dunia!\n
+            \nProfil Lengkap:
+            \nNama              : Callista Alifia
+            \nTanggal Lahir     : 22 Mei 2002
+            \nGolongan Darah    : A
+            \nHoroskop          : Gemini
+            \nTinggi Badan      : 162 cm
+            \nNama Panggilan    : Callie
+        </item>
+        <item>Halo! Saya Cornelia Vanisa. Saya menyukai fotografi dan menghabiskan waktu di alam. Saya juga suka berolahraga dan menjaga kebugaran tubuh.\n
+            \nProfil Lengkap:
+            \nNama              : Cornelia Vanisa
+            \nTanggal Lahir     : 8 Agustus 2001
+            \nGolongan Darah    : O
+            \nHoroskop          : Leo
+            \nTinggi Badan      : 164 cm
+            \nNama Panggilan    : Oniel
+        </item>
+        <item>Hai, saya Febriola Sinambela. Saya suka menggambar dan menghabiskan waktu dengan mendengarkan musik klasik. Saya juga memiliki ketertarikan dalam fashion!\n
+            \nProfil Lengkap:
+            \nNama              : Febriola Sinambela
+            \nTanggal Lahir     : 30 November 2000
+            \nGolongan Darah    : AB
+            \nHoroskop          : Sagitarius
+            \nTinggi Badan      : 161 cm
+            \nNama Panggilan    : Olla
+        </item>
+        <item>Halo, saya Feni Fitriyanti. Saya suka bernyanyi dan bermain alat musik. Saya juga sangat menyukai binatang, terutama anjing dan kucing!\n
+            \nProfil Lengkap:
+            \nNama              : Feni Fitriyanti
+            \nTanggal Lahir     : 14 Maret 2002
+            \nGolongan Darah    : B
+            \nHoroskop          : Pisces
+            \nTinggi Badan      : 159 cm
+            \nNama Panggilan    : Feni
+        </item>
+        <item>Hai, saya Fiony Alveria. Saya senang dengan dunia tari dan musik. Saya juga suka belajar bahasa asing dan bercita-cita menjadi penari profesional.\n
+            \nProfil Lengkap:
+            \nNama              : Fiony Alveria
+            \nTanggal Lahir     : 17 September 2003
+            \nGolongan Darah    : O
+            \nHoroskop          : Virgo
+            \nTinggi Badan      : 163 cm
+            \nNama Panggilan    : Fio
+        </item>
+        <item>Perkenalkan, nama saya Flora Shafiq. Saya suka menulis dan membaca buku-buku fiksi ilmiah. Saya juga penggemar astronomi dan langit malam.\n
+            \nProfil Lengkap:
+            \nNama              : Flora Shafiq
+            \nTanggal Lahir     : 23 Oktober 2001
+            \nGolongan Darah    : A
+            \nHoroskop          : Scorpio
+            \nTinggi Badan      : 165 cm
+            \nNama Panggilan    : Flora
+        </item>
+        <item>Halo, saya Freya Jayawardana. Saya suka fashion dan mengikuti tren mode terkini. Saya juga gemar menonton drama dan film romantis.\n
+            \nProfil Lengkap:
+            \nNama              : Freya Jayawardana
+            \nTanggal Lahir     : 4 Februari 2004
+            \nGolongan Darah    : B
+            \nHoroskop          : Aquarius
+            \nTinggi Badan      : 166 cm
+            \nNama Panggilan    : Freya
+        </item>
+        <item>Hai, saya Gabriela Abigail. Saya senang menari dan berpartisipasi dalam kegiatan sosial. Saya juga suka traveling dan berkunjung ke tempat-tempat bersejarah.\n
+            \nProfil Lengkap:
+            \nNama              : Gabriela Abigail
+            \nTanggal Lahir     : 10 Juni 2003
+            \nGolongan Darah    : O
+            \nHoroskop          : Gemini
+            \nTinggi Badan      : 167 cm
+            \nNama Panggilan    : Ella
+        </item>
+        <item>Halo, nama saya Gita Sekar Andarini. Saya sangat suka menulis puisi dan bermain gitar. Saya juga senang dengan dunia seni pertunjukan dan teater.\n
+            \nProfil Lengkap:
+            \nNama              : Gita Sekar Andarini
+            \nTanggal Lahir     : 26 Desember 2002
+            \nGolongan Darah    : A
+            \nHoroskop          : Capricorn
+            \nTinggi Badan      : 160 cm
+            \nNama Panggilan    : Gita
+        </item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://jkt48.com/profile/amanda_sukma.jpg?v=20230530</item>
+        <item>https://jkt48.com/profile/angelina_christy.jpg?v=20230116</item>
+        <item>https://jkt48.com/profile/aurellia.jpg?v=20230531</item>
+        <item>https://jkt48.com/profile/callista_alifia.jpg?v=20230531</item>
+        <item>https://jkt48.com/profile/cornelia_vanisa.jpg?v=20230116</item>
+        <item>https://jkt48.com/profile/febriola_sinambela.jpg?v=20230116</item>
+        <item>https://jkt48.com/profile/feni_fitriyanti.jpg?v=20230116</item>
+        <item>https://jkt48.com/profile/fiony_alveria.jpg?v=20230116</item>
+        <item>https://jkt48.com/profile/flora_shafiq.jpg?v=20230116</item>
+        <item>https://jkt48.com/profile/freya_jayawardana.jpg?v=20230116</item>
+        <item>https://jkt48.com/profile/gabriela_abigail.jpg?v=20230531</item>
+        <item>https://jkt48.com/profile/gita_sekar_andarini.jpg?v=20230116</item>
+    </string-array>
+
+
+</resources>
